@@ -9,3 +9,7 @@ h1 {
     line-height: 40px;
     text-decoration: underline;
 }
+p{
+    color: aliceblue;
+    font-weight: 600;
+}
